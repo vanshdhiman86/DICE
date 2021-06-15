@@ -9,4 +9,4 @@ random
 ```
 
 OUTPUT:\
-<img src="images\won.jpg" width="400">
+<img src="images\dice.jpg" width="400">
